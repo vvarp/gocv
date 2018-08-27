@@ -4,4 +4,4 @@
 // For further details, please see:
 // https://software.intel.com/en-us/cvsdk-devguide-advanced-face-capabilities-in-intels-opencv
 //
-package pvl // import "gocv.io/x/gocv/pvl"
+package pvl // import "github.com/vvarp/gocv/pvl"

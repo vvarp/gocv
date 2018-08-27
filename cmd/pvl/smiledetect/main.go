@@ -22,8 +22,8 @@ import (
 	"os"
 	"strconv"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/pvl"
+	"github.com/vvarp/gocv"
+	"github.com/vvarp/gocv/pvl"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import "C"
 import (
 	"unsafe"
 
-	"gocv.io/x/gocv"
+	"github.com/vvarp/gocv"
 )
 
 type PredictResponse struct {
